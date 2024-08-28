@@ -1,0 +1,4 @@
+This is code for our algorithm implemented in paper "A-helix architects the evolution of the ribosome." 
+The algorithm is written under Matlab 2024 version.
+We provided the script easy for reimplementation with only one click. 
+Be sure your have input and pdb bundle in folders under same directory.
